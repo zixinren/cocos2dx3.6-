@@ -1,0 +1,6 @@
+int id bottomImageView 0x7f030001
+int id leftImageView 0x7f030002
+int id rightImageView 0x7f030003
+int id topImageView 0x7f030000
+int layout screen_fit 0x7f020000
+int layout screen_fit_h 0x7f020001
